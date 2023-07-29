@@ -1,0 +1,8 @@
+.div{
+    display: flex;
+    justify-content: right;
+    margin-top: 0.50rem;
+}
+.h2{
+    padding: 1.75rem;
+}

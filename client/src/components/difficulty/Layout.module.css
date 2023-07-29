@@ -1,0 +1,38 @@
+.box{
+    border: 1px solid red;
+    height: 350px;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    color: #0b1727;
+    transition: 0.2s ease-in-out;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.box:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.blue{
+    background-color: #8ADCFF;
+    border: #8ADCFF 1px solid;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+.orange{
+    background-color: #FFA9A9;
+    border: #FFA9A9 1px solid;
+}
+
+.red{
+    background-color: #F66060;
+    border:#F66060 1px solid;
+}
